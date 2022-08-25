@@ -1,0 +1,66 @@
+fonts
+
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif; button only
+
+
+colors
+
+background: #e5f8e5;  green
+background: #282531;  footer
+black: #000000; 
+white: #FFFFFF;
+green: #1cb16f
+orange: #FD511A;
+
+
+common
+	button- hover,text
+	font-family: 'Poppins';
+	font-size: 16px
+	font-weight: 400
+
+
+
+responsiveness:
+
+
+header----------------
+				xxl/xl/lg							md							sm/col
+padd 			0/20								0/15/10						0/15/5
+
+
+
+banner----------------
+				xxl/xl/lg							md							sm/col
+padd			60/0 								0/0/60						0/0/40
+h1				48/44								35							35/30
+h1-l.height		70									40 							40/35
+p-l.height		30									24							24
+img-mb 			*									30							30/30
+img-padd		*									0/60						0/10
+
+
+
+
+feature----------------
+				xxl/xl/lg							md							sm/col
+padd tb			40(20)/100							20(20)/80					10(20)/60
+single padd 	70/0/65								55/0/55						55/0/55
+
+
+
+
+testimonial----------------
+				xxl/xl/lg							md							sm/col
+padd            0 0 100								0 0 80 						0 0 60
+title mb 		70									50							30
+
+
+
+footer----------------
+				xxl/xl/lg							md							sm/col
+padd            60 0 30								40 0 20 					30 0 15
+
+
+
